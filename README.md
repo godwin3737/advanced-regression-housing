@@ -1,4 +1,4 @@
-# Bike Sharing Assignment (Multiple Linear Regression)
+# House Price Prediction using Linear, Ridge and Lasso Regression
 
 ## Problem Statement
 
